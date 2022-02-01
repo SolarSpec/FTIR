@@ -119,7 +119,7 @@ _For more information on any of the internal functions, please refer to the [MAT
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/SolarSpec/FTIRf/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/SolarSpec/FTIR/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
